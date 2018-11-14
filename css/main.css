@@ -1498,11 +1498,14 @@ ul#nav li.current a:after {
    .popup-modal {
 	max-width: 550px;
 	background: #FFFFFF;
-	position: relative;
+	position: absolute;
+    top: 20px;
+
 	}
 
 	.popup-modal .media {
 		position: relative;
+
 
 	}
 
@@ -1513,9 +1516,12 @@ ul#nav li.current a:after {
 
 	/* description */
 	.popup-modal .description-box {
+		height: 250px;
+		overflow:scroll;
 		padding: 6px 36px 30px;
 		background: #FFFFFF;
 		position: relative;
+
 
 	}
 

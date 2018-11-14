@@ -1,5 +1,21 @@
 
+-----------------------------------------------------------------------------------------------------
+版本 v1.1
+更新日期 20181114
+
+更新項目：
+1.修正首頁banner youtube彈出視窗電腦版尺寸
+2.修正作品集彈出視窗版面固定問題
+-----------------------------------------------------------------------------------------------------
+版本 v1
+更新日期 20181108
+
+說明：
+完成主要切版，以及所有資訊上傳與編輯完成，並新增首頁banner彈出影片連結。
+
 ==================================================================================================
+
+原始 KREO template 資料
 
 KREO is the perfect site template for creative professionals, agencies and freelancers but 
 it can also be used for small business websites.The template features a modern and bold design,
@@ -37,22 +53,6 @@ Attribution:
 
 
 -----------------------------------------------------------------------------------------------------
-
-
-REMOVING THE LINK:
-
-We understand that there are situations where you want to use the template without the 
-crediting obligation. If that's your case, you can always send us a 
-credit removal fee of 10 USD through Paypal. This will allow you to use the 
-template attribution/credit link free on ONE DOMAIN name. 
-
-You can send your payments through Paypal to this address: ealigam@gmail.com
-
-If possible, kindly send us the site's url where the template is being used. 
-Also, keep your Paypal receipt as proof of payment and your good to go.
-
-
------------------------------------------------------------------------------------------------------- 
 
 
 SUPPORT:
@@ -117,6 +117,5 @@ Javascript Files:
 --------------------------------------------------------------------------------------------------------- 
 
 
-Thanks for downloading from Styleshout :)
   
 
